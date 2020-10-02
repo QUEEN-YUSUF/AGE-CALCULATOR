@@ -10,9 +10,6 @@ function calculate(){
       j = document.getElementById("Age").value;
       j *= 365;
 
-      if(i === "" || j === "") {
-          alert("Fil in your details");
-      }
-      else{
+      
         document.getElementById("answer").innerHTML = i + "\t you have lived \t" + j + "\tdays";}
-      }
+      
