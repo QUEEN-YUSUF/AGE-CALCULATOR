@@ -9,7 +9,5 @@ function calculate(){
       var j;
       j = document.getElementById("Age").value;
       j *= 365;
-
-      
         document.getElementById("answer").innerHTML = i + "\t you have lived \t" + j + "\tdays";}
       
