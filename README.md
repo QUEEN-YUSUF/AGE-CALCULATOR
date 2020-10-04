@@ -8,7 +8,8 @@ https://raw.githack.com/QUEEN-YUSUF/AGE-CALCULATOR/main/index.html
  - submit
    though we have different Age calculator online this particular one is simple and easy to understand.
    ### How the calulator look like
-![This si image of the calculator.](age cal.png)
+![This is a alt text.](/cal.png "This is a sample image.")
+
 #### you can reach me on 
 -facebook https://www.facebook.com/profile.php?id=100006393993804
 -twitter https://twitter.com/home?lang=en
